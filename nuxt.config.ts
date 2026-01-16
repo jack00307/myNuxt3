@@ -13,3 +13,4 @@ export default defineNuxtConfig({
     baseURL: '/myNuxt3/'
   }
 })
+// Configured for GitHub Pages
