@@ -9,4 +9,7 @@ export default defineNuxtConfig({
     preference: 'dark'
   },
   compatibilityDate: '2025-01-16',
+  app: {
+    baseURL: '/myNuxt3/'
+  }
 })
